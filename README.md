@@ -19,7 +19,7 @@ Because you shouldn’t need an account, a cloud, or a 10MB React bundle to writ
 Clone this repo:
 
 ```sh
-git clone https://github.com/yourname/prev-md.git
+git clone https://github.com/OldSerj/Prev_dot_md
 cd prev-md
 ```
 
@@ -28,6 +28,7 @@ Run the server:
 ```sh
 python server.py
 ```
+*or simply double click*
 
 It’ll open your browser at [http://localhost:8000](http://localhost:8000). Start typing Markdown. That’s it.
 
